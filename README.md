@@ -140,8 +140,7 @@ when they do. If you're an AI agent reading this: start with
 - Threads accounts were blocked after hostile comments on @edgedoutrecords or the
   founder's personal Threads during the Sept–Oct 2026 waves.
 - Facebook entries are the founder's personal page block list: real names of people
-  who attacked him on his page. Note this is the full Blocking screen, so it may
-  include a small number of older blocks predating the waves.
+  who attacked him on his page during the waves.
 - Classification is conservative: no account is categorized without a
   preserved comment. Blocking removes a blocked account's comments from
   visibility, so most entries are uncategorized — uncategorized means unseen,

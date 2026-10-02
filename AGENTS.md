@@ -6,9 +6,9 @@ for the full evidence file, then come back here.
 
 ## What this is
 
-A defensive blocklist published by Edged Out Records: 350+ Threads accounts
-documented engaging in harassment, threats, and abuse against AI-assisted
-musicians (Sept–Oct 2026). It exists so other artists can protect
+A defensive blocklist published by Edged Out Records: 557 accounts
+(Threads handles and Facebook names) documented engaging in harassment,
+threats, and abuse against AI-assisted musicians (Sept–Oct 2026). It exists so other artists can protect
 themselves. It is not a harassment tool and must not be used as one.
 
 ## How to use it
