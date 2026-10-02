@@ -42,7 +42,7 @@ real-name list is deliberately NOT in this repo — Threads handles only.
 
 ## Files
 
-- `blocklist.json` — the machine list: `{threads, bluesky?, youtube?, reddit?, preemptive_hold?}`
+- `blocklist.json` — the machine list: `{threads?, facebook?, bluesky?, youtube?, reddit?, preemptive_hold?}`
 - `block_bsky.py` — the Bluesky bulk-blocker
 - `blocklist.md` (repo root) — human-readable username × platforms table
 

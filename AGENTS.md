@@ -33,8 +33,9 @@ themselves. It is not a harassment tool and must not be used as one.
 - **Respect `preemptive_hold` flags.** Those entries are thin-evidence
   cases the label owner wants to decide on personally. Skip them unless
   the person explicitly opts in (`--include-held`).
-- **No Facebook real names live here.** That exclusion is deliberate. Keep
-  it that way.
+- **Facebook real names are included** (entries with a `facebook` key). The
+  label owner directed their inclusion: these are people who attacked him on his
+  public page. Treat them as documented like any other entry.
 - **Say what you can't do.** Threads has no block API endpoint; Instagram
   and Facebook have no API blocking for personal accounts. Tell the person
   plainly instead of inventing a workaround.

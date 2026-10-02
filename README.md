@@ -2,7 +2,7 @@
 
 A defense resource published by **Edged Out Records**.
 
-This is a list of 414 Threads accounts that engaged in harassment, threats,
+This is a list of 557 accounts that engaged in harassment, threats,
 and abuse directed at AI-assisted musicians — our label's artists and the
 label itself — during September and October 2026. It is published so other
 artists using AI tools can protect themselves: check the list, block early,
@@ -14,7 +14,7 @@ The full list is in [blocklist.md](blocklist.md).
 
 In late September 2026, Edged Out Records' Threads posts about AI-assisted
 music drew a sustained wave of hostile commenters — roughly 100–200 accounts
-in the first wave, growing to 414 blocked across the label account and the
+in the first wave, growing to 557 blocked across the label account, the
 founder's personal account. The same accounts hit both without knowing the
 connection: this was ideological patrol, not a personal vendetta.
 
@@ -137,8 +137,11 @@ when they do. If you're an AI agent reading this: start with
 
 ## Methodology and limits
 
-- Accounts were blocked after hostile comments on @edgedoutrecords or the
-  founder's personal Threads/Facebook during the Sept–Oct 2026 waves.
+- Threads accounts were blocked after hostile comments on @edgedoutrecords or the
+  founder's personal Threads during the Sept–Oct 2026 waves.
+- Facebook entries are the founder's personal page block list: real names of people
+  who attacked him on his page. Note this is the full Blocking screen, so it may
+  include a small number of older blocks predating the waves.
 - Classification is conservative: no account is categorized without a
   preserved comment. Blocking removes a blocked account's comments from
   visibility, so most entries are uncategorized — uncategorized means unseen,

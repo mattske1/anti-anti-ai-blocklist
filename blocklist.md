@@ -419,3 +419,146 @@ See README.md for methodology, attack styles, and motivations.
 | zuko1610 | Threads |
 | worserfiber | Threads |
 | virtual_jonsanity | Threads |
+| Aaron Romo | Facebook |
+| Abel Gil | Facebook |
+| Adam Phillip | Facebook |
+| Aidan Conroy | Facebook |
+| Alex Panigada | Facebook |
+| Alexander Fretz | Facebook |
+| Allen Archer | Facebook |
+| Brent Irwin | Facebook |
+| Bucky Edwards | Facebook |
+| Caleb Thomas | Facebook |
+| Carl Santo | Facebook |
+| Carlis Martin Spivey | Facebook |
+| Chris Patrick | Facebook |
+| Chris Sharpham | Facebook |
+| Chris Tapia | Facebook |
+| Cody Booth | Facebook |
+| Colin Eustice | Facebook |
+| Craig Webster | Facebook |
+| Damon Bysterveld | Facebook |
+| Dan Dragga | Facebook |
+| Daniel Allan Lazarus | Facebook |
+| Darren Joseph McElduff | Facebook |
+| Daulton A Kent | Facebook |
+| Dave Dexter | Facebook |
+| Dave Newberry | Facebook |
+| David Toni Copeland | Facebook |
+| Denver Colburn Risley | Facebook |
+| Devon Aviles | Facebook |
+| Devon Vermillion | Facebook |
+| Doug Wallace | Facebook |
+| Dustin Sin | Facebook |
+| Eddie Curran | Facebook |
+| Edgar Regalado | Facebook |
+| Fletch Jacobs | Facebook |
+| Gabe Revvnstein | Facebook |
+| George J Knauer | Facebook |
+| Grady Swafford | Facebook |
+| Grant Cattermole | Facebook |
+| Hroth Lee | Facebook |
+| Huell Babanau | Facebook |
+| Jack Hemphill | Facebook |
+| James Mulvale | Facebook |
+| James Scroggins | Facebook |
+| Jean Pierce | Facebook |
+| Jeff Mccutcheon | Facebook |
+| Jeff Wendt | Facebook |
+| Jerry Crow | Facebook |
+| Jessie Sponberg | Facebook |
+| Jim Donaldson | Facebook |
+| Joe Dwyer | Facebook |
+| Joel Thorstenson | Facebook |
+| John Robertson | Facebook |
+| Jon DC | Facebook |
+| Joseph Black Moon | Facebook |
+| Joseph Crowley | Facebook |
+| Joseph Parsley | Facebook |
+| Joshua Lewis | Facebook |
+| Joshua Michael Selser | Facebook |
+| Justin Chandler | Facebook |
+| Justin Mikalajunas | Facebook |
+| Kalevi Skies | Facebook |
+| KD Newman | Facebook |
+| Lee T. Schmitz | Facebook |
+| Loudly de Renzy | Facebook |
+| Luis Iracheta | Facebook |
+| Matt Reel | Facebook |
+| Matthew Berdyck | Facebook |
+| Matthew Siler | Facebook |
+| Matty Sense | Facebook |
+| Mercedes Weikal | Facebook |
+| Michael Griggs | Facebook |
+| Michael Klein | Facebook |
+| Michael Smith | Facebook |
+| Mike Chapman | Facebook |
+| Mike Taylor | Facebook |
+| Moreno Matkovic | Facebook |
+| Myer Clarity | Facebook |
+| Nick Romo | Facebook |
+| Patrick Keough | Facebook |
+| Paul Lockhart | Facebook |
+| Philip Kotze | Facebook |
+| Phill WithtwoLs | Facebook |
+| Reyah Grant | Facebook |
+| Rhys Batstone | Facebook |
+| Robert Cassidy | Facebook |
+| Russ Orem | Facebook |
+| Samuel Cinq-Mars | Facebook |
+| Satan | Facebook |
+| Scott Nichols | Facebook |
+| Sebastian Thain | Facebook |
+| Shannon John Stever | Facebook |
+| Sherada Vlog | Facebook |
+| Simon Bogulak | Facebook |
+| Simon Major | Facebook |
+| Slaanesh Kaos | Facebook |
+| Ste Ve | Facebook |
+| Stefan Sandberg | Facebook |
+| Steven McFall | Facebook |
+| Steven Swieck | Facebook |
+| Teagan Miller | Facebook |
+| Tobi Blake | Facebook |
+| Toivo Aaron Kallio | Facebook |
+| Trey Buffington | Facebook |
+| Tume Vari | Facebook |
+| Wes Bissett | Facebook |
+| YC BG | Facebook |
+| Ramiro Quai | Facebook |
+| Aloysius Snodgrass | Facebook |
+| Seth Coble | Facebook |
+| David Dee Cashmore | Facebook |
+| Josh Freeborg | Facebook |
+| Blake Donohue | Facebook |
+| Lee Matthews | Facebook |
+| Steve Bates | Facebook |
+| Emil Azzam | Facebook |
+| Jackson Xcx | Facebook |
+| Angel Miguel Correa | Facebook |
+| Robert Wagner | Facebook |
+| Steven Ford | Facebook |
+| Matt Gallihugh | Facebook |
+| David Blomquist | Facebook |
+| Ashton Kilgore | Facebook |
+| Jake Yoshimitsu | Facebook |
+| Keenan Harvey | Facebook |
+| Daniel Lovick | Facebook |
+| Matt Murphy | Facebook |
+| Tommy Dupuis | Facebook |
+| James Weckbacher | Facebook |
+| Jonas Barnes | Facebook |
+| Zachary Pegg | Facebook |
+| Jason Taylor | Facebook |
+| Andrew Trillo | Facebook |
+| Aaron Stafford | Facebook |
+| Konsta Hietaniemi | Facebook |
+| Ashley Miles | Facebook |
+| Pete Frequency | Facebook |
+| Dylan Richardson | Facebook |
+| Brett Roberts | Facebook |
+| Devon Kelley | Facebook |
+| DjiPi Loi-Nion | Facebook |
+| Brent Joiner | Facebook |
+| Daniel Cortes | Facebook |
+| Matthew Mayo | Facebook |
