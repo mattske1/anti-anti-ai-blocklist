@@ -16,11 +16,13 @@ Verbose CLI output — narrate each step, note durations, warn before long
 silent stretches.
 """
 import argparse, datetime, json, os, sys, time, urllib.request, urllib.error
+import http.client
 
 HOST = "https://bsky.social"
 HERE = os.path.dirname(os.path.abspath(__file__))
 LIST_PATH = os.path.join(HERE, "blocklist.json")
-_RETRYABLE = (TimeoutError, ConnectionError, OSError)
+_RETRYABLE = (TimeoutError, ConnectionError, OSError,
+              http.client.IncompleteRead, http.client.RemoteDisconnected)
 
 def log(msg):
     print(msg, flush=True)
@@ -115,16 +117,22 @@ def main():
         if a.dry_run:
             log("  would block (dry run)"); continue
         try:
-            did = resolve(h, tok)
-        except SystemExit as ex:
-            log(f"  resolve failed: {ex}"); failed.append(h); continue
-        if already_blocked(did, tok):
-            log("  already blocked — skipping"); skipped += 1; continue
-        try:
-            uri = block(did, tok)
-            log(f"  blocked: {uri}"); done += 1
-        except SystemExit as ex:
-            log(f"  block failed: {ex}"); failed.append(h)
+            try:
+                did = resolve(h, tok)
+            except SystemExit as ex:
+                log(f"  resolve failed: {ex}"); failed.append(h); continue
+            if already_blocked(did, tok):
+                log("  already blocked — skipping"); skipped += 1; continue
+            try:
+                uri = block(did, tok)
+                log(f"  blocked: {uri}"); done += 1
+            except SystemExit as ex:
+                log(f"  block failed: {ex}"); failed.append(h)
+        except BaseException as ex:
+            # network-level blowup (proxy 301s, incomplete reads, etc.) —
+            # record and move on instead of killing the whole run
+            log(f"  transient failure, will retry next run: {type(ex).__name__}: {ex}")
+            failed.append(h)
         time.sleep(0.5)  # gentle pace
 
     log(f"\nDone: {done} blocked, {skipped} already blocked, {len(failed)} failed.")

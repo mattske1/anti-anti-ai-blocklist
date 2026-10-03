@@ -1,6 +1,6 @@
 # Blocklist — anti-AI harasser accounts (Threads)
 
-363 accounts blocked for harassment of AI-assisted musicians, Sept–Oct 2026.
+614 accounts blocked for harassment of AI-assisted musicians, Sept–Oct 2026.
 See README.md for methodology, attack styles, and motivations.
 
 | Username | Active on |
@@ -562,3 +562,60 @@ See README.md for methodology, attack styles, and motivations.
 | Brent Joiner | Facebook |
 | Daniel Cortes | Facebook |
 | Matthew Mayo | Facebook |
+| likes4mike | Threads |
+| kaitgreat88 | Threads + Bluesky + YouTube |
+| billionaireshateyou | Threads |
+| mustangrevolver | Threads + Bluesky + Reddit |
+| noromamusic | Threads + YouTube |
+| nicole.santoro.music | Threads + YouTube |
+| acoyajade | Threads + YouTube |
+| jwm236969 | Threads |
+| typicalannamarie | Threads + Bluesky + YouTube |
+| weavrrr | Threads + YouTube + Reddit |
+| amante.boutique | Threads + Bluesky |
+| nikifm316 | Threads |
+| thomaswthomsen | Threads |
+| thunderbolt210 | Threads + Bluesky + YouTube + Reddit |
+| c4lij4de | Threads |
+| krystalnexus | Threads |
+| lightandforms | Threads + YouTube |
+| zephyrlestrange | Threads + YouTube + Reddit |
+| bozcrags | Threads + Reddit |
+| hellen_skelter | Threads |
+| avelic07 | Threads |
+| rafterlz | Threads |
+| toe_german | Threads |
+| mr_christopher_dragon | Threads |
+| mattservo | Threads + Bluesky + YouTube |
+| mizzbortbort | Threads |
+| rafara08 | Threads |
+| illustrationsbyannie_e | Threads |
+| genderless.changling2.0 | Threads |
+| halleyree | Threads + YouTube |
+| eightfootmanchild | Threads + Reddit |
+| jtrappas | Threads |
+| bariguy | Threads + Bluesky + Reddit |
+| xarkatect | Threads |
+| mel.m5683 | Threads |
+| loganh.42 | Threads |
+| joshthepoet_creative | Threads |
+| brolz.giron | Threads |
+| takingcliches | Threads |
+| smash.the.box | Threads + YouTube + Reddit |
+| migueldesa0031 | Threads + YouTube |
+| thebattleofsouls | Threads |
+| dookwahnick | Threads |
+| jimmyottaway | Threads + YouTube |
+| therealvintagerolexonig | Threads |
+| scruffyryan79 | Threads |
+| _oddnomalies | Threads |
+| ubiquitous_gaze | Threads + Reddit |
+| patilos9 | Threads |
+| avontegarde | Threads + YouTube |
+| lpillus | Threads + Bluesky |
+| brendannorth | Threads + Bluesky + YouTube + Reddit |
+| toadlyart | Threads |
+| djpnh | Threads + YouTube |
+| clidocain3 | Threads |
+| pixiegrl333 | Threads |
+| marshall_pope | Threads + Reddit |

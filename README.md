@@ -2,7 +2,7 @@
 
 A defense resource published by **Edged Out Records**.
 
-This is a list of 557 accounts that engaged in harassment, threats,
+This is a list of 614 accounts that engaged in harassment, threats,
 and abuse directed at AI-assisted musicians — our label's artists and the
 label itself — during September and October 2026. It is published so other
 artists using AI tools can protect themselves: check the list, block early,
@@ -21,7 +21,7 @@ of accounts, so if you want a bigger one, fork the repo and build your own.
 
 In late September 2026, Edged Out Records' Threads posts about AI-assisted
 music drew a sustained wave of hostile commenters — roughly 100–200 accounts
-in the first wave, growing to 557 blocked across the label account, the
+in the first wave, growing to 614 blocked across the label account, the
 founder's personal account. The same accounts hit both without knowing the
 connection: this was ideological patrol, not a personal vendetta.
 
@@ -29,11 +29,9 @@ connection: this was ideological patrol, not a personal vendetta.
 
 Four recurring categories, named as we observed them:
 
-- **physical_inflection** — overt hostility: "fuck you" tier or worse.
-  Documented examples: *"go fuck yourself right up where the sun don't shine"*
-  (@andreas798989), *"Fuck all the way off"* (@cristinbishara, 97 likes),
-  *"Fuck you and your AI slop"* (Robert Wagner). Includes a documented
-  suicide-bait attempt against the label account.
+- **physical_inflection** — threats of physical violence: killing, bodily
+  harm, suicide-baiting. Documented: a suicide-bait attempt against the label
+  account. Profanity without a threat is not this — that's other_hostile.
 - **quotation_knights** — scare-quote othering: putting "artist", "music",
   or "label" in quotes to deny the target's legitimacy. Not criticism of the
   work — denial that the person qualifies at all.
@@ -42,7 +40,10 @@ Four recurring categories, named as we observed them:
   and jobs"* (@rdc_ryan), *"Show an AI that isn't trained on stolen
   materials"* (@dwhitmee).
 - **other_hostile** — the remainder: "slop" as a slur, "not real art/music",
-  talentless, bot accusations, drive-by mockery.
+  talentless, bot accusations, drive-by mockery, and profane hostility that
+  stops short of a threat. Examples: *"Fuck you and your AI slop"* (Robert
+  Wagner), *"Fuck all the way off"* (@cristinbishara, 97 likes), *"go fuck
+  yourself right up where the sun don't shine"* (@andreas798989).
 
 Observed tactics layered on top of these:
 
