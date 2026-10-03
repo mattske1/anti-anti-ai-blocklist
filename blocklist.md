@@ -1,6 +1,6 @@
 # Blocklist — anti-AI harasser accounts (Threads)
 
-628 accounts blocked for harassment of AI-assisted musicians, Sept–Oct 2026.
+629 accounts blocked for harassment of AI-assisted musicians, Sept–Oct 2026.
 See README.md for methodology, attack styles, and motivations.
 
 | Username | Active on |
@@ -633,3 +633,4 @@ See README.md for methodology, attack styles, and motivations.
 | theoneandonlyamberb | Threads |
 | geekydad83 | Threads + Bluesky |
 | fatnsasssy | Threads + YouTube |
+| rasprose98 | Threads |

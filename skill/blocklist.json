@@ -1957,8 +1957,7 @@
  },
  {
   "threads": "professorchas",
-  "bluesky": "professorchas.bsky.social",
-  "preemptive_hold": true
+  "bluesky": "professorchas.bsky.social"
  },
  {
   "threads": "mal9thousand",
@@ -1983,5 +1982,8 @@
  },
  {
   "threads": "fatnsasssy"
+ },
+ {
+  "threads": "rasprose98"
  }
 ]
