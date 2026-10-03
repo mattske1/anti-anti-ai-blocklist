@@ -10,6 +10,13 @@ don't feed them.
 
 The full list is in [blocklist.md](blocklist.md).
 
+## Why this list exists
+
+I made it to protect me and my artists, and to give other artists a way to
+defend themselves so they can just make art without being harassed. I curate
+it personally from accounts that came at us — I'm not scaling it to thousands
+of accounts, so if you want a bigger one, fork the repo and build your own.
+
 ## What happened
 
 In late September 2026, Edged Out Records' Threads posts about AI-assisted
