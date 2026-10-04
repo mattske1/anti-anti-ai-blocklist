@@ -1,6 +1,6 @@
 # Blocklist — anti-AI harasser accounts (Threads)
 
-629 accounts blocked for harassment of AI-assisted musicians, Sept–Oct 2026.
+718 accounts blocked for harassment of AI-assisted musicians, Sept–Oct 2026.
 See README.md for methodology, attack styles, and motivations.
 
 | Username | Active on |
@@ -634,3 +634,92 @@ See README.md for methodology, attack styles, and motivations.
 | geekydad83 | Threads + Bluesky |
 | fatnsasssy | Threads + YouTube |
 | rasprose98 | Threads |
+| _captain_andrew | Threads |
+| _its_jules_lol_ | Threads |
+| _thebluecollarhippie_ | Threads |
+| a_wild_sandy_appears | Threads |
+| adamsbackoninsta | Threads |
+| adhdahlia | Threads |
+| aetasfr | Threads |
+| artbonnar | Threads |
+| ashlendo96 | Threads |
+| attackbigfoot | Threads |
+| author.ronniemathews | Threads |
+| beaniecapmouse | Threads |
+| bearded_n_baked | Threads |
+| beerknuts | Threads |
+| bobbincosplays | Threads |
+| boundinfables | Threads |
+| brianna.writes.books | Threads |
+| cass.ie.bee2 | Threads |
+| charles.ellsworth.music | Threads |
+| culture0 | Threads |
+| curtis_slow | Threads |
+| danhawkins__ | Threads |
+| ditto_duh | Threads |
+| djpain1 | Threads |
+| eatdrugsdodonuts | Threads |
+| frogwzrd | Threads |
+| gigglegrass503 | Threads |
+| gman_maci | Threads |
+| greatcop | Threads |
+| headybrosevelt | Threads |
+| idkhonestly2022 | Threads |
+| itmeguys111 | Threads |
+| itsdaisylynn | Threads |
+| itsyourfavoritescorpio | Threads |
+| j626w | Threads |
+| james_thorne19 | Threads |
+| jmakowicki | Threads |
+| joban_gh | Threads |
+| juliocarrion.esma | Threads |
+| justtonex3 | Threads |
+| lesloomoo | Threads |
+| lindenststudios | Threads |
+| masonwearsprada | Threads |
+| mburma521 | Threads |
+| melt_ice_7012 | Threads |
+| metalmistress | Threads |
+| metaphorthedead | Threads |
+| midgebitty | Threads |
+| mikeyallenpoe | Threads |
+| mnsquirrelbear | Threads |
+| mollythynes | Threads |
+| mymom_plants | Threads |
+| niyodoesart | Threads |
+| palefaced66 | Threads |
+| philiplovesyoutoo | Threads |
+| playfulandproud | Threads |
+| racoon7030 | Threads |
+| randomnessishuman | Threads |
+| reading.bb | Threads |
+| rhyannelise42 | Threads |
+| righton.123 | Threads |
+| schmidtkg | Threads |
+| semcpherson_writes | Threads |
+| shari_archinoff | Threads |
+| shauncey | Threads |
+| silverfokz | Threads |
+| simonsays77877 | Threads |
+| skydarmos | Threads |
+| starwarstrekfan01 | Threads |
+| suburbvagabond | Threads |
+| talldarkanddark | Threads |
+| tazay | Threads |
+| thatduncan | Threads |
+| theodore_chan_02 | Threads |
+| thequeenofeverything | Threads |
+| thewriter74 | Threads |
+| vamp__mist | Threads |
+| vip_ope | Threads |
+| waitareyouhigh | Threads |
+| willhalbert | Threads |
+| xan_flow | Threads |
+| yirmeyah310 | Threads |
+| zenbeastmedia | Threads |
+| zundel_ | Threads |
+| Clayton Denton | Facebook |
+| Brandon Story | Facebook |
+| Kyle Hess | Facebook |
+| Jack Nunley | Facebook |
+| Rachel Salinas | Facebook |

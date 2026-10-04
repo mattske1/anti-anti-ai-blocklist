@@ -2,7 +2,7 @@
 
 A defense resource published by **Edged Out Records**.
 
-This is a list of 629 accounts that engaged in harassment, threats,
+This is a list of 718 accounts that engaged in harassment, threats,
 and abuse directed at AI-assisted musicians — our label's artists and the
 label itself — during September and October 2026. It is published so other
 artists using AI tools can protect themselves: check the list, block early,
@@ -21,7 +21,7 @@ of accounts, so if you want a bigger one, fork the repo and build your own.
 
 In late September 2026, Edged Out Records' Threads posts about AI-assisted
 music drew a sustained wave of hostile commenters — roughly 100–200 accounts
-in the first wave, growing to 629 blocked across the label account, the
+in the first wave, growing to 718 blocked across the label account, the
 founder's personal account. The same accounts hit both without knowing the
 connection: this was ideological patrol, not a personal vendetta.
 
