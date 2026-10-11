@@ -1,6 +1,6 @@
 # Blocklist — anti-AI harasser accounts (Threads)
 
-718 accounts blocked for harassment of AI-assisted musicians, Sept–Oct 2026.
+769 accounts blocked for harassment of AI-assisted musicians, Sept–Oct 2026.
 See README.md for methodology, attack styles, and motivations.
 
 | Username | Active on |
@@ -89,7 +89,7 @@ See README.md for methodology, attack styles, and motivations.
 | davidbasen | Threads |
 | davidmarriott | Threads + Bluesky + YouTube |
 | dcjm_8931 | Threads |
-| dead.magick | Threads |
+| dead.magick | Threads + Bluesky |
 | dee_dub_raven | Threads |
 | denisssemarie | Threads |
 | derezzzzzed | Threads |
@@ -723,3 +723,54 @@ See README.md for methodology, attack styles, and motivations.
 | Kyle Hess | Facebook |
 | Jack Nunley | Facebook |
 | Rachel Salinas | Facebook |
+| jwr.ink | Threads + Bluesky |
+| nickcostduh | Threads + Bluesky |
+| iany_dy | Threads |
+| southt53 | Threads |
+| ash_spop | Threads |
+| msterls7 | Threads |
+| docu.mentonacionaldeidentidad | Threads |
+| wjbentleyetc | Threads |
+| tattooedcomrade | Threads |
+| wrogers_photo | Threads |
+| artapocrypha | Threads |
+| michael_wandmacher | Threads |
+| dannywriteup | Threads |
+| _.addicted2skylar._ | Threads |
+| g4dz00kz | Threads |
+| rafaelvaza | Threads |
+| den_d.d.n | Threads |
+| funky_frenchman | Threads |
+| rafa_go19 | Threads |
+| ihavenoshadow | Threads |
+| coleco_cat419 | Threads |
+| fain.tx | Threads |
+| zentaibass | Threads |
+| jacobrakovan | Threads |
+| mearical | Threads |
+| la_diavola_lune | Threads |
+| collinhasinstagram | Threads |
+| nm_hook | Threads |
+| jesse_austin2026 | Threads |
+| trashboyillustration | Threads |
+| li.ji.gi | Threads |
+| deardeathdesigns | Threads |
+| mike_makesstuff | Threads |
+| onebadrabbitmusic | Threads |
+| tyuyrt | Threads |
+| inkys_hobby_room | Threads |
+| thoughtsfromangel | Threads |
+| bvi1le_ | Threads |
+| logan_ryan_dunn | Threads |
+| mouse_alexander | Threads |
+| big_e68 | Threads |
+| seasonofhope45 | Threads |
+| loudlyderenzy | Bluesky |
+| robertwagner | Bluesky |
+| phillwithtwols | Bluesky |
+| mattysense | Bluesky |
+| miketaylor | Bluesky |
+| jamesmulvale | Bluesky |
+| myerclarity | Bluesky |
+| davedexter | Bluesky |
+| josygirl | Bluesky |
